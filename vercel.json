@@ -4,6 +4,6 @@
   "regions": ["bom1"],
   "redirects": [
     { "source": "ahmedabad-call-girls.sohanisharma.com", "destination": "https://sohanisharma.com/gujarat/ahmedabad", "permanent": true },
-    { "source": "/*", "destination": "/", "permanent": true }
+    { "source": "/(.*)", "destination": "/", "permanent": true }
   ]
 }
